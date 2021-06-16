@@ -1,5 +1,6 @@
 'use strict';
 const todo = require('./index.js');
+// テストモジュール
 const assert = require('assert');
 
 // add と list のテスト
